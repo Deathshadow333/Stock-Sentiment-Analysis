@@ -36,4 +36,4 @@ If you are deploying this code please use an Jupiter Note File/Google Colab File
 
 ## Author
 
--   **G Sharan Raghav** https://github.com/Deathshadow999
+-   **G Sharan Raghav** - https://github.com/Deathshadow999

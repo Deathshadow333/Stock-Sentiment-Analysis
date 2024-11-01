@@ -8,7 +8,7 @@ This project is developed for stock market news prediction using sentiment analy
 
 ## My Role in Project: 
 
-I was coding and developing a presentation maker, and I was one of the speakers for the review presentation meeting.
+-   I was coding and developing a presentation maker, and I was one of the speakers for the review presentation meeting.
 
 ## Technology: 
 
@@ -25,14 +25,10 @@ I was coding and developing a presentation maker, and I was one of the speakers 
 ## Link and Results: 
 
 -   https://github.com/Deathshadow333/Stock-Sentiment-Analysis-Project.git and Prediction and quantification of future volatility and returns play an important role in financial modelling
--   
-## Technical details
-
-This is a template website which can be customized to your needs.Also has a hidden flag try and find it :wink:
 
 ## Notes
 
-If you are deploying this code please use an Jupiter Note File/Google Colab File, this is the [Final Code Demo](https://github.com/Deathshadow999/Stock-Sentiment-Analysis-Project/blob/main/Final_Code.ipynb) 
+-   If you are deploying this code please use an Jupiter Note File/Google Colab File, this is the [Final Code Demo](https://github.com/Deathshadow999/Stock-Sentiment-Analysis-Project/blob/main/Final_Code.ipynb) 
 
 ## Author
 

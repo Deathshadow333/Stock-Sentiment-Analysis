@@ -6,6 +6,10 @@ This project is developed for stock market news prediction using sentiment analy
 
 -   Developed to use a model for sentiment prediction by looking for connections between words and marking them with positive or negative sentiments
 
+## My Role in Project: 
+
+I was coding and developing a presentation maker, and I was one of the speakers for the review presentation meeting.
+
 ## Technology: 
 
 -   Python, Recurrent Neural Network (RNN), NLTK tool, VADER Lexicon, Sentiment Intensity Analyzer, require windows 7+, Presentation software- Google Colab & MS PowerPoint

@@ -1,4 +1,4 @@
-# Stock Sentiment Analysis
+# Sentiment Analysis in Stock News
 
 This project is developed for stock market news prediction using sentiment analysis, and it's a team project worked by a team of 4 members. 
 
